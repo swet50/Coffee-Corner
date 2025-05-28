@@ -88,6 +88,7 @@ header .navbar {
   color: white;
   font-size: 2rem;
   font-weight: 600;
+   margin-top: 8px;
 }
 .navbar .nav-menu .nav-link {
   padding: 10px 18px;
